@@ -62,7 +62,7 @@ Zero frameworks. Zero dependencies. Fully static — loads instantly.
 ```bash
 git clone https://github.com/yourusername/harshith-portfolio
 cd harshith-portfolio
-open index.html
+open HarshithPM_Portfolio.html
 ```
 
 No install. No build step. Just open the file.
@@ -73,13 +73,11 @@ No install. No build step. Just open the file.
 
 ```
 harshith-portfolio/
-├── HarshithPM_Portfolio.html    ← rename to index.html before deploying
+├── HarshithPM_Portfolio.html   
 ├── README.md
 ├── .gitignore
 └── LICENSE
 ```
-
-> **Note:** Rename `HarshithPM_Portfolio.html` to `index.html` before pushing — GitHub Pages serves `index.html` by default.
 
 ---
 
