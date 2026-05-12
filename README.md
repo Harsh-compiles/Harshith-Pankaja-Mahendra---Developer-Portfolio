@@ -100,7 +100,7 @@ CS Student @ University of New Brunswick — Class of 2027
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harshith-mahendra-b61aa02a1)
 - 💻 [GitHub](https://github.com/yourusername)
-- 📧 harshith@example.com
+- 📧 harshithmahendra92@gmail.com
 
 ---
 
