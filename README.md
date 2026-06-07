@@ -6,7 +6,7 @@ Personal interactive portfolio website built with vanilla HTML, CSS, and JavaScr
 
 ## 🔗 Live Site
 
-👉 [**harshithpm.github.io/harshith-portfolio**](https://yourusername.github.io/harshith-portfolio)
+👉 [**harshithpm.github.io/harshith-portfolio**](https://Harsh-compiles.github.io/Harshith-Portfolio)
 
 ---
 
